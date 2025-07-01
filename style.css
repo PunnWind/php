@@ -1,0 +1,46 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #000000;
+}
+h2{
+    color:red;
+    font-size: 30px;
+}
+
+.content {
+    color:blue  
+}
+
+#aaa{
+    color:rgb(255, 230, 0);
+    font-size: 20px;
+}
+
+.btn {
+    background-color: #0000ff;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover {
+    background-color: #cc0000;
+    font-size: larger;
+}
+
+.success {
+    background-color: #0000FF;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.success:hover {
+    background-color: #cc0000;
+    font-size: larger;
+}
+
+
